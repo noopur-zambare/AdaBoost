@@ -3,7 +3,6 @@ import time
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 
-
 class DecisionStump:
     def __init__(self):
         self.polarity = 1
